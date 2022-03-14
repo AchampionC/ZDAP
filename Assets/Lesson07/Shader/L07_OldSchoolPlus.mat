@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: L07_OldSchoolPlus
+  m_Shader: {fileID: 4800000, guid: 0d84b3888a146634081e2dfe878548de, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AO:
+        m_Texture: {fileID: 2800000, guid: eabfa8d88fe328f4b952fb81f530c4a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occulsion:
+        m_Texture: {fileID: 2800000, guid: eabfa8d88fe328f4b952fb81f530c4a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occulsion_copy_copy:
+        m_Texture: {fileID: 2800000, guid: eabfa8d88fe328f4b952fb81f530c4a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _envint: 1
+    - _specular_pow: 92
+    - _specular_pow_copy: 7.4
+    m_Colors:
+    - _EnvDownCol: {r: 0.36477983, g: 1, b: 0.91765666, a: 1}
+    - _EnvDownCol_copy_copy: {r: 0, g: 0, b: 0, a: 1}
+    - _EnvSideCol: {r: 1, g: 1, b: 1, a: 1}
+    - _EnvSideCol_copy_copy: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+    - _EnvUpCol: {r: 0.3194292, g: 0.6431373, b: 0.14901958, a: 1}
+    - _EnvUpCol_copy_copy: {r: 1, g: 1, b: 1, a: 1}
+    - _LightColor: {r: 0, g: 0, b: 0, a: 1}
+    - _baseColor: {r: 0.069301, g: 0.6886792, b: 0.6447672, a: 1}
+    - _downColor: {r: 0.9056604, g: 0, b: 0, a: 1}
+    - _sideColor: {r: 0.4528302, g: 0.071199685, b: 0.071199685, a: 1}
+    - _upColor: {r: 0.75686514, g: 0.7924528, b: 0, a: 1}
+  m_BuildTextureStacks: []
